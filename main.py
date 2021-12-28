@@ -83,6 +83,6 @@ entry1.place(x=70,y=50)
 
 
 
-# the ending loop for the tkinter libararies
+# The ending loop for the tkinter libararies
 root.mainloop()
 
