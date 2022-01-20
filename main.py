@@ -53,7 +53,7 @@ def dencrypt_image():
 
 
 
-# This is the declaration of the tkinter i.e, the GUI for the user
+#  This is the declaration of the tkinter i.e, the GUI for the user
 
 
 root = Tk()
